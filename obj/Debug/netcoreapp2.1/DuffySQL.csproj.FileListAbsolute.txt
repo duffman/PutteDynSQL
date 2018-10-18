@@ -1,0 +1,17 @@
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\DuffySQL.csproj.CoreCompileInputs.cache
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\DuffySQL.AssemblyInfoInputs.cache
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\DuffySQL.AssemblyInfo.cs
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\DuffySQL.csprojAssemblyReference.cache
+C:\Coldmind\Products\Libraries\CSharpDynSQL\bin\Debug\netcoreapp2.1\DuffySQL.deps.json
+C:\Coldmind\Products\Libraries\CSharpDynSQL\bin\Debug\netcoreapp2.1\DuffySQL.dll
+C:\Coldmind\Products\Libraries\CSharpDynSQL\bin\Debug\netcoreapp2.1\DuffySQL.pdb
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\DuffySQL.dll
+C:\Coldmind\Products\Libraries\CSharpDynSQL\obj\Debug\netcoreapp2.1\DuffySQL.pdb
+C:\Coldmind\Products\Libraries\DuffySQL\bin\Debug\netcoreapp2.1\DuffySQL.deps.json
+C:\Coldmind\Products\Libraries\DuffySQL\bin\Debug\netcoreapp2.1\DuffySQL.dll
+C:\Coldmind\Products\Libraries\DuffySQL\bin\Debug\netcoreapp2.1\DuffySQL.pdb
+C:\Coldmind\Products\Libraries\DuffySQL\obj\Debug\netcoreapp2.1\DuffySQL.csproj.CoreCompileInputs.cache
+C:\Coldmind\Products\Libraries\DuffySQL\obj\Debug\netcoreapp2.1\DuffySQL.AssemblyInfoInputs.cache
+C:\Coldmind\Products\Libraries\DuffySQL\obj\Debug\netcoreapp2.1\DuffySQL.AssemblyInfo.cs
+C:\Coldmind\Products\Libraries\DuffySQL\obj\Debug\netcoreapp2.1\DuffySQL.dll
+C:\Coldmind\Products\Libraries\DuffySQL\obj\Debug\netcoreapp2.1\DuffySQL.pdb

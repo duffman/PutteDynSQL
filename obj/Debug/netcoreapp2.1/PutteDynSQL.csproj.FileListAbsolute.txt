@@ -1,0 +1,9 @@
+C:\Putte\PutteDynSQL\bin\Debug\netcoreapp2.1\PutteDynSQL.deps.json
+C:\Putte\PutteDynSQL\bin\Debug\netcoreapp2.1\PutteDynSQL.dll
+C:\Putte\PutteDynSQL\bin\Debug\netcoreapp2.1\PutteDynSQL.pdb
+C:\Putte\PutteDynSQL\obj\Debug\netcoreapp2.1\PutteDynSQL.csproj.CoreCompileInputs.cache
+C:\Putte\PutteDynSQL\obj\Debug\netcoreapp2.1\PutteDynSQL.AssemblyInfoInputs.cache
+C:\Putte\PutteDynSQL\obj\Debug\netcoreapp2.1\PutteDynSQL.AssemblyInfo.cs
+C:\Putte\PutteDynSQL\obj\Debug\netcoreapp2.1\PutteDynSQL.dll
+C:\Putte\PutteDynSQL\obj\Debug\netcoreapp2.1\PutteDynSQL.pdb
+C:\Putte\PutteDynSQL\obj\Debug\netcoreapp2.1\PutteDynSQL.csprojAssemblyReference.cache
